@@ -1,0 +1,4 @@
+﻿STATE_DEFAULTSEA = {
+    id = 10001
+    provinces = { }
+}

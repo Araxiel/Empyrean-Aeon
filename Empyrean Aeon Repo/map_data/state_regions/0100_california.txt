@@ -1,0 +1,28 @@
+﻿# 00 - city
+# 01 - farm
+# 02 - mine
+# 03 - port
+# 04 - wood
+
+# Shady Sands 101
+STATE_SHADYSANDS = {
+    id = 101
+    subsistence_building = "building_subsistence_salvage"
+    provinces = {  }
+    city = "x7392B3"
+    farm = "x76B2A7"
+    mine = "x7A866F"
+    wood = "x93718A"
+    arable_land = 60
+    arable_resources = { "bg_wheat_farms" "bg_water_collectors" }
+    capped_resources = {
+        bg_salvage_buildings = 6
+        bg_water_treatment = 2
+    }
+    resource = {
+        type = "bg_water_wells"
+        depleted_type = "bg_water_collectors"
+        undiscovered_amount = 5
+        discovered_amount = 6
+    }
+}
