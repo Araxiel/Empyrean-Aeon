@@ -1,7 +1,7 @@
 # Empyrean Aeon
 [![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAraxiel%2FEmpyrean-Aeon%2Fdevelopment%2FEmpyrean-Aeon%2F.metadata%2Fmetadata.json&query=%24.supported_game_version&label=Supported%20Vic3%20Version&color=orange)](https://vic3.paradoxwikis.com/Patches) [![GitHub contributors](https://img.shields.io/github/contributors/araxiel/Empyrean-Aeon)](https://github.com/Araxiel/Empyrean-Aeon/graphs/contributors) [![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/araxiel/Empyrean-Aeon) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/araxiel/Empyrean-Aeon)](https://github.com/Araxiel/Empyrean-Aeon/commits/development) [![GitHub repo size](https://img.shields.io/github/repo-size/araxiel/Empyrean-Aeon)](https://github.com/Araxiel/Empyrean-Aeon/pulse) [![GitHub milestone details](https://img.shields.io/github/milestones/progress/araxiel/Empyrean-Aeon/1)](https://github.com/Araxiel/Empyrean-Aeon/milestone/1)
 
-A Victoria 3 mod set in a original world filled with mystery, magic and lots of steamengines.
+A Victoria 3 mod set in a original world filled with mystery, magic and lots of steamengines.  
 This mod is extremely work in progress.
 
 ## How can I help?
